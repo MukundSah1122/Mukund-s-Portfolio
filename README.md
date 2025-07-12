@@ -15,4 +15,4 @@
 ## 🚀 Quick Start
 1. Clone repo:
 ```bash
-git clone https://github.com/your-username/Mukund-Portfolio.git
+git clone https://github.com/MukundSah1122/Mukund-Portfolio.git
